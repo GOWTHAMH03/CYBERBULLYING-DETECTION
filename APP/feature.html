@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="791" border="1" align="center" class="table table-striped thead-dark table-bordered table-hover">
+					<tr style="background-color:#844FC1; color:#FFFFFF;">
+					  <td>#</td>
+					  <td>Tweet Text</td>
+					 <td>cyberbullying Label</td>
+					 <td>cyberbulying Name</td>
+					  </tr>
+					  
+					   {% for rs8 in data8 %}
+					  <tr>
+					  <td>{{loop.index}}</td>
+					  <td>{{rs8[0]}}</td>
+					  <td>{{rs8[1]}}</td>
+					  <td>{{rs8[2]}}</td>
+					  </tr>
+					  {% endfor %}
+					  
+					  </table>
+</body>
+</html>
