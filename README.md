@@ -7,7 +7,7 @@
 
 </a>
 
-<h2 align="center">PREVENTING CYBERBULLYING DETECTION ON SOCIAL MEDIA <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
+<h2 align="center">PREVENTING CYBERBULLYING DETECTION ON SOCIAL MEDIA <a href="https://github.com/GOWTHAMH03/CYBERBULLYING-DETECTION/tree/main" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
  
 
